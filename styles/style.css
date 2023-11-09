@@ -14,9 +14,9 @@ body {
 
 .div1 {
     width: 376px;
-    height: 300px;
+    height: 400px;
     margin: 50px auto;
-    background: url(images/resharehome.jpg) center/cover no-repeat #8F9D87;
+    background: url(.images/resharehome.jpg) center/cover no-repeat #8F9D87;
 }
 
 .blok1 {
@@ -488,14 +488,6 @@ footer {
     min-height: 3vh;
     justify-content: center;
 }
-
-
-
-
-
-
-
-
 
 
 
