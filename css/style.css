@@ -240,6 +240,7 @@ h3 {
 
     /*page 3, kleding doneren*/
 
+
 @media screen and (max-width:1200px) {
     .box{
         width: 40%;
@@ -316,7 +317,7 @@ h3 {
     display: flex;
     flex-direction: column;
     align-items: center; 
-    margin: 20%;
+    margin: 10%;
     margin-inline: 20%;
 }
 
